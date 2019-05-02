@@ -15,6 +15,7 @@ def myNetwork():
     net = Mininet( topo=None,
                    build=False,
                    autoSetMacs=True,
+                   autoStaticArp=True,
                    ipBase='10.0.0.0/8')
 
     info( '*** Adding controller\n' )
@@ -56,6 +57,15 @@ def myNetwork():
 
     info( '*** Starting switches\n')
     net.get('s1').start([c0])
+
+    info('*** Setting routes\n')
+    h1.cmd('route add default dev h1-eth1')
+    h2.cmd('route add default dev h2-eth1')
+    h3.cmd('route add default dev h3-eth1')
+    h4.cmd('route add default dev h4-eth1')
+    h5.cmd('route add default dev h5-eth1')
+    h6.cmd('route add default dev h6-eth1')
+    srv1.cmd('route add default dev srv1-eth1')
 
     info( '*** Post configure switches and hosts\n')
 

@@ -32,6 +32,10 @@ import Tabela_IP_Porta as tb
 
 TABELA_IP_PORTAS = tb.tabela_ip_porta
 
+TABELA_IP_SERVIDORES = tb.tabela_ip_servidores
+
+MAC_SERVIDOR = tb.mac_servidor
+
 path_home = os.getenv("HOME") #Captura o caminho da pasta HOME
 
 #Arquivos
@@ -83,8 +87,15 @@ class AppQoS(app_manager.RyuApp):
         #Regra de QoS de acordo com a tabela passada
         time.sleep(5)
         for regra in TABELA_IP_PORTAS:
-            os.system('ovs-ofctl add-flow s1 priority=40000,dl_type=0x0800,nw_dst=' + regra[0] + ',nw_proto=6,tp_dst=' + regra[1] + ',actions=enqueue:' + regra[2] + ':' + self.filaQoS(regra[3]))
-            #os.system('ovs-ofctl add-flow s1 priority=40000,dl_type=0x0800,nw_dst=' + regra[0] + ',nw_proto=17,tp_dst=' + regra[1] + ',actions=enqueue:' + regra[2] + ':' + self.filaQoS(regra[3]))
+            os.system('ovs-ofctl add-flow s1 priority=40000,dl_type=0x0800,nw_dst=' + regra[0] + ',nw_proto=17,tp_dst=' + regra[1] + ',actions=enqueue:' + regra[2] + ':' + self.filaQoS(regra[3]))
+            #os.system('ovs-ofctl add-flow s1 priority=40000,dl_type=0x0800,nw_src='+ regra[0] +',nw_dst=' + regra[1] + ',nw_proto=6,tp_dst='+ regra[2] +',actions=enqueue:' + regra[3] + ':' + self.filaQoS(regra[4]))
+            #os.system('ovs-ofctl add-flow s1 priority=40000,dl_type=0x0800,nw_src='+ regra[1] +',nw_dst=' + regra[0] + ',nw_proto=6,tp_dst='+ regra[2] +',actions=enqueue:' + TABELA_IP_SERVIDORES[1] + ':' + self.filaQoS(regra[4]))
+            #os.system('ovs-ofctl add-flow s1 priority=1,,dl_type=0x0800,in_port='+ regra[2] +',dl_src='+ regra[0] +',dl_dst=' + regra[1] + ',actions=enqueue:' + regra[2] + ':' + self.filaQoS(regra[3]) +',output:'+ regra[2])
+            #os.system('ovs-ofctl add-flow s1 priority=1,dl_type=0x0800,in_port='+ MAC_SERVIDOR[1] +',dl_src='+ regra[1] +',dl_dst=' + regra[0] + ',actions=enqueue:' + MAC_SERVIDOR[1] + ':' + self.filaQoS(regra[3])+',output:'+ MAC_SERVIDOR[1])
+        #for regra in TABELA_IP_SERVIDORES:
+            #os.system('ovs-ofctl add-flow s1 priority=40000,dl_type=0x0800,nw_dst=' + regra[0] + ',nw_proto=6,actions=enqueue:' + regra[1] + ':' + self.filaQoS(regra[2]))
+            #os.system('ovs-ofctl add-flow s1 priority=40000,dl_type=0x0800,nw_dst=' + regra[0] + ',nw_proto=6,tp_dst=' + regra[1] + ',actions=enqueue:' + regra[2] + ':' + self.filaQoS(regra[3]))
+
 
     '''
     FIM Eventos de Inicio de Topologia ou chegada de Switch
@@ -198,8 +209,8 @@ Tudo o que eu quiser iniciar, basta colocar aqui!!
 '''
 # Require
 #app_manager.require_app('ryu.app.ofctl_rest')
-app_manager.require_app('ryu.app.simple_switch_13_mod')
-#app_manager.require_app('ryu.app.simple_switch_13')
+#app_manager.require_app('ryu.app.simple_switch_13_mod')
+app_manager.require_app('ryu.app.simple_switch_13')
 #app_manager.require_app('ryu.app.rest_conf_switch')
 #app_manager.require_app('ryu.app.rest_topology')
 # app_manager.require_app('ryu.app.rest_qos_mod')
