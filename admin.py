@@ -79,11 +79,11 @@ if __name__=='__main__':		#Funcao principal
         classlist=retrieve()
     print('\nCONFIGURACAO INICIAL:')
     #tx_max=int(raw_input('Digite a vazao maxima da rede em bps: '))
-    tx_max = 50000000 # 50Mb
+    tx_max = 10000000 # 10Mb
     #media=int(raw_input('Digite a taxa media da classe de melhor esforco (be) em bps: '))
-    media = 50000000 # 50Mb
+    media = 10000000 # 10Mb
     #pico=int(raw_input('Digite a taxa de pico da classe de melhor esforco (be) em bps: '))
-    pico = 50000000 # 50Mb
+    pico = 10000000 # 10Mb
     if len(classlist)==0:
         classlist.append(Classe(0,'be',media,pico))
     else:
