@@ -27,7 +27,7 @@ import requests
 import pickle
 from classe import Classe
 
-import Tabela_IP_Porta as tb
+import Tabela as tb
 
 
 TABELA_IP_PORTAS = tb.tabela_ip_porta

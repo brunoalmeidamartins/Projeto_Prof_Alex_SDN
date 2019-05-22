@@ -18,8 +18,9 @@ from ryu.ofproto import ether
 import os
 import time
 import pickle
+import classe #Utilizada no pickle
 
-import Tabela_IP_Porta as tb
+import Tabela as tb
 
 IP_SERVIDOR = tb.ip_mac_servidor[0]
 
@@ -66,7 +67,7 @@ class AppQoS(app_manager.RyuApp):
         self.add_flow(datapath, 0, match, actions)
 
         #Regra de QoS de acordo com a tabela passada
-        time.sleep(1)
+        time.sleep(2)
         print('')
         for regra in TABELA_IP_PORTAS:
             #os.system('ovs-ofctl add-flow s1 priority=40000,dl_type=0x0800,nw_dst=' + regra[0] + ',nw_proto=17,tp_dst=' + regra[1] + ',actions=enqueue:' + regra[2] + ':' + self.filaQoS(regra[3]))
@@ -86,8 +87,8 @@ class AppQoS(app_manager.RyuApp):
     '''
 
     '''
-       Funcao de de Adicionar Regras
-       '''
+    Funcao de de Adicionar Regras
+    '''
 
     def add_flow(self, datapath, priority, match, actions, idle_timeout=0, numero=0):
         #print('Numero DEBUG: '+ str(numero))
