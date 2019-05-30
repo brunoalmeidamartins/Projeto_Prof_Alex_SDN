@@ -238,7 +238,7 @@ class AppQoS(app_manager.RyuApp):
                                 qos = self.filaQoS(regra[3])
                                 actions = [parser.OFPActionSetQueue(int(qos[0])), parser.OFPActionOutput(
                                     port=self.mac_to_port[dpid][dst])]
-                                self.add_flow(datapath, 1005, match, actions, 60, 27)
+                                self.add_flow(datapath, 1005, match, actions, 30, 27)
                                 print('\nAdicionado a regra TCP com QoS')
                                 print('Tudo que for de '+ str(pkt_ipv4.src)+' para '+str(pkt_ipv4.dst)+' na porta '+str(
                                     pkt_tcp.dst_port)+' enqueue '+qos[1])
@@ -265,7 +265,7 @@ class AppQoS(app_manager.RyuApp):
                         match = parser.OFPMatch(in_port=in_port, eth_type=0x0800, ipv4_src=pkt_ipv4.src, ipv4_dst=pkt_ipv4.dst,
                                                 ip_proto=6, tcp_src=pkt_tcp.src_port, tcp_dst=pkt_tcp.dst_port)
                         actions = [parser.OFPActionOutput(port=self.mac_to_port[dpid][dst])]
-                        self.add_flow(datapath, 1005, match, actions, 60, 27)
+                        self.add_flow(datapath, 1005, match, actions, 30, 27)
                         print('\nRegra comum aplicada!!\nTudo que for de ' + str(src) + ' para ' + str(
                             dst) + ' sai na porta ' + str(out_port) + '\n')
                     else:

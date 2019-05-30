@@ -8,7 +8,7 @@ import pickle
 
 path_home = os.getenv("HOME") #Captura o caminho da pasta HOME
 filename = path_home+'/Projeto_Prof_Alex_SDN/classes.conf'	#Nome do arquivo de classes de servicos
-tx_max = 1000000000					#Vazao maxima da rede em bps
+tx_max = 30 * 1000000				#Vazao maxima da rede em bps
 
 def persist(classlist):			#Persiste uma lista de objetos Classe no arquivo "filename"
     file = open(filename,'wb')
@@ -79,11 +79,11 @@ if __name__=='__main__':		#Funcao principal
         classlist=retrieve()
     print('\nCONFIGURACAO INICIAL:')
     #tx_max=int(raw_input('Digite a vazao maxima da rede em bps: '))
-    tx_max = 10000000 # 10Mb
+    tx_max = 30000000 # 30Mb
     #media=int(raw_input('Digite a taxa media da classe de melhor esforco (be) em bps: '))
-    media = 10000000 # 10Mb
+    media = 30000000 # 30Mb
     #pico=int(raw_input('Digite a taxa de pico da classe de melhor esforco (be) em bps: '))
-    pico = 10000000 # 10Mb
+    pico = 30000000 # 30Mb
     if len(classlist)==0:
         classlist.append(Classe(0,'be',media,pico))
     else:

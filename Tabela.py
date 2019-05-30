@@ -6,8 +6,8 @@ ip_mac_servidor = [ip_servidor, mac_placa_servidor]
 mac_servidor = [mac_placa_servidor, porta_servidor]
 
 tabela_ip_porta = [
-                   [ip_servidor, '2001', porta_servidor, 'Classe10Mb'],
-                   [ip_servidor, '2002', porta_servidor, 'Classe20Mb'],
-                   [ip_servidor, '2003', porta_servidor, 'Classe30Mb'],
+                   [ip_servidor, '2001', porta_servidor, 'Classe30Mb'],
+                   [ip_servidor, '2002', porta_servidor, 'Classe30Mb_1'],
+                   [ip_servidor, '2003', porta_servidor, 'Classe30Mb_2']
                   ]
 tabela_ip_servidores = [ip_servidor, porta_servidor]
