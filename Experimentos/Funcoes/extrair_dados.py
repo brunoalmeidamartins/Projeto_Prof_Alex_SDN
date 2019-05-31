@@ -70,7 +70,7 @@ def obtem_matriz_iperf():
         h1_semQoS.append(__dadosIperf(path_projeto_iperf_semQoS + 'h1/teste' + str(i + 1) + '.txt'))
         h2_semQoS.append(__dadosIperf(path_projeto_iperf_semQoS + 'h2/teste' + str(i + 1) + '.txt'))
         h3_semQoS.append(__dadosIperf(path_projeto_iperf_semQoS + 'h3/teste' + str(i + 1) + '.txt'))
-    matriz = [h1_comQoS, h2_comQoS, h3_comQoS, h1_semQoS, h2_semQoS, h3_semQoS]
+    matriz = [h1_semQoS, h2_semQoS, h3_semQoS, h1_comQoS, h2_comQoS, h3_comQoS]
     return matriz
 
 def __vetor_vazao(path_arquivo):

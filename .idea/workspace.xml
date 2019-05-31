@@ -2,323 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70f5ed7a-1ebe-42a0-b81f-4933d671d0f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Projeto_Prof_Alex_SDN.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Graficos-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_28.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_29.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_31.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_32.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_33.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_34.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_28.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_29.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_31.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_32.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_33.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_34.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Funcoes/estatistica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Funcoes/extrair_dados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Funcoes/grafico.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experimentos/Funcoes/plota_graficos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT/PcktFull/rtt_h1_2001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/PcktFull/rtt_h1_2001.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT/PcktFull/rtt_h2_2002.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/PcktFull/rtt_h2_2002.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT/PcktFull/rtt_h3_2003.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/PcktFull/rtt_h3_2003.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT/PcktFull/rtt_h4_2004.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/PcktFull/rtt_h4_2004.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT/Pckt_32B/rtt_h1_2000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/Pckt_32B/rtt_h1_2000.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT/Pckt_32B/rtt_h2_2002.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/Pckt_32B/rtt_h2_2002.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT/Pckt_32B/rtt_h3_2004.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/Pckt_32B/rtt_h3_2004.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT/Pckt_32B/rtt_h4_5001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/Pckt_32B/rtt_h4_5001.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT/Pckt_32B_ping/rtt_h1_2000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/Pckt_32B_ping/rtt_h1_2000.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT/Pckt_32B_ping/rtt_h2_2002.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/Pckt_32B_ping/rtt_h2_2002.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT/Pckt_32B_ping/rtt_h3_2004.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/Pckt_32B_ping/rtt_h3_2004.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT/Pckt_32B_ping/rtt_h4_ping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/Pckt_32B_ping/rtt_h4_ping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv10.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv13.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv14.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv15.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv16.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv18.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv19.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv20.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv21.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv22.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv23.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv25.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv26.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv27.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv28.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv29.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv30.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv31.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv32.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv6.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv7.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv8.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medida_RTT_Ping/rtt_h1_srv9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT_Ping/Outros/rtt_h1_srv9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste10.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste13.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste14.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste15.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste16.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste18.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste19.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste20.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste21.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste22.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste23.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste25.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste26.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste27.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste28.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste29.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste30.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste31.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste32.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste6.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste7.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste8.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h1/teste9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h1/teste9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste10.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste13.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste14.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste15.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste16.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste18.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste19.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste20.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste21.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste22.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste23.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste25.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste26.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste27.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste28.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste29.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste30.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste31.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste32.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste6.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste7.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste8.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h2/teste9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h2/teste9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste10.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste13.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste14.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste15.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste16.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste18.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste19.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste20.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste21.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste22.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste23.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste25.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste26.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste27.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste28.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste29.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste30.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste31.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste32.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste6.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste7.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste8.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Com_QoS/h3/teste9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Com_QoS/h3/teste9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste10.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste13.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste14.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste15.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste16.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste18.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste19.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste20.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste21.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste22.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste23.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste25.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste26.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste27.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste28.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste29.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste30.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste31.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste32.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste6.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste7.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste8.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste10.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste13.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste14.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste15.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste16.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste18.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste19.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste20.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste21.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste22.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste23.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste25.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste26.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste27.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste28.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste29.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste30.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste31.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste32.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste6.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste7.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste8.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h2/teste9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste10.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste13.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste14.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste15.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste16.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste18.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste19.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste20.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste21.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste22.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste23.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste25.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste26.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste27.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste28.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste29.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste30.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste31.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste32.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste6.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste7.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste8.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h3/teste9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tabela.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tabela.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes.conf" beforeDir="false" afterPath="$PROJECT_DIR$/classes.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experimentos/Funcoes/estatistica_iperf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experimentos/Graficos/Barra/iPerf/Total_MB_Com_QoS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experimentos/Graficos/Barra/iPerf/Total_MB_Sem_QoS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experimentos/Graficos/Barra/iPerf/Vazao_Com_QoS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experimentos/Graficos/Barra/iPerf/Vazao_Sem_QoS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experimentos/Graficos/Total_Megabyte_Com_QoS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experimentos/Graficos/Total_Megabyte_Sem_QoS.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppQoS_SemQoS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppQoS_bckp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/PcktFull/rtt_h1_2001.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/PcktFull/rtt_h2_2002.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/PcktFull/rtt_h3_2003.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/PcktFull/rtt_h4_2004.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/Pckt_32B/rtt_h1_2000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/Pckt_32B/rtt_h2_2002.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/Pckt_32B/rtt_h3_2004.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/Pckt_32B/rtt_h4_5001.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/Pckt_32B_ping/rtt_h1_2000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/Pckt_32B_ping/rtt_h2_2002.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/Pckt_32B_ping/rtt_h3_2004.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experimentos/Dados/Medida_RTT/Pckt_32B_ping/rtt_h4_ping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experimentos/Funcoes/estatistica.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Funcoes/estatistica_ping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experimentos/Funcoes/extrair_dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Funcoes/extrair_dados.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experimentos/Funcoes/grafico.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Funcoes/grafico.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experimentos/Graficos/Ping.png" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Graficos/Barra/Ping/Ping.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experimentos/Graficos/Vazao_Com_QoS_Media.png" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Graficos/Vazao_Tempo/Vazao_Com_QoS_Media.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experimentos/Graficos/Vazao_Sem_QoS_Media.png" beforeDir="false" afterPath="$PROJECT_DIR$/Experimentos/Graficos/Vazao_Tempo/Vazao_Sem_QoS_Media.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graficos.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graficos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TesteComandos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topologia.mn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin QoS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes_old.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes_old1.conf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -331,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Experimentos/Funcoes/extrair_dados.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-105">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="-67">
+              <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="24" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -343,11 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Experimentos/Funcoes/plota_graficos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-67">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-              <folding>
-                <element signature="e#0#6#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="795">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
             </state>
           </provider>
         </entry>
@@ -355,8 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Experimentos/Funcoes/grafico.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="885">
-              <caret line="59" column="32" lean-forward="true" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+            <state relative-caret-position="1029">
+              <caret line="72" column="51" selection-start-line="72" selection-start-column="51" selection-end-line="72" selection-end-column="51" />
               <folding>
                 <element signature="e#43#74#0" expanded="true" />
               </folding>
@@ -365,10 +81,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Experimentos/Funcoes/estatistica.py">
+        <entry file="file://$PROJECT_DIR$/Experimentos/Funcoes/estatistica_iperf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="332" column="25" selection-start-line="332" selection-start-column="25" selection-end-line="332" selection-end-column="25" />
+            <state relative-caret-position="480">
+              <caret line="206" column="15" selection-start-line="206" selection-start-column="15" selection-end-line="206" selection-end-column="15" />
               <folding>
                 <element signature="e#88#98#0" expanded="true" />
               </folding>
@@ -410,17 +126,18 @@
         <option value="$PROJECT_DIR$/AppQoS.py" />
         <option value="$PROJECT_DIR$/Tabela.py" />
         <option value="$PROJECT_DIR$/Experimentos/Funcoes/plota_graficos.py" />
+        <option value="$PROJECT_DIR$/Experimentos/Funcoes/estatistica.py" />
         <option value="$PROJECT_DIR$/Experimentos/Funcoes/extrair_dados.py" />
         <option value="$PROJECT_DIR$/Experimentos/Funcoes/grafico.py" />
-        <option value="$PROJECT_DIR$/Experimentos/Funcoes/estatistica.py" />
+        <option value="$PROJECT_DIR$/Experimentos/Funcoes/estatistica_iperf.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1969" />
-    <option name="y" value="-2" />
-    <option name="width" value="1311" />
-    <option name="height" value="770" />
+    <option name="x" value="128" />
+    <option name="y" value="223" />
+    <option name="width" value="983" />
+    <option name="height" value="576" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -430,6 +147,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -437,40 +155,23 @@
               <item name="Projeto_Prof_Alex_SDN" type="b2602c69:ProjectViewProjectNode" />
               <item name="Projeto_Prof_Alex_SDN" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Projeto_Prof_Alex_SDN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projeto_Prof_Alex_SDN" type="462c0819:PsiDirectoryNode" />
-              <item name="Experimentos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Projeto_Prof_Alex_SDN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projeto_Prof_Alex_SDN" type="462c0819:PsiDirectoryNode" />
-              <item name="Experimentos" type="462c0819:PsiDirectoryNode" />
-              <item name="Dados" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Projeto_Prof_Alex_SDN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projeto_Prof_Alex_SDN" type="462c0819:PsiDirectoryNode" />
-              <item name="Experimentos" type="462c0819:PsiDirectoryNode" />
-              <item name="Funcoes" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Experimentos/Funcoes" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Experimentos/Funcoes" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Experimentos/Dados" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -527,13 +228,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1969" y="-2" width="1311" height="770" extended-state="6" />
+    <frame x="49" y="25" width="1871" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2189441" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1525974" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.496118" visible="true" weight="0.4102964" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.496118" visible="true" weight="0.28401726" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.503882" side_tool="true" weight="0.32917318" />
       <window_info anchor="bottom" id="Python Console" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -550,16 +251,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/admin2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TesteComandos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AppQoS_bckp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -596,53 +287,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-747" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-720" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-720" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste3.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medidas_Com_QoS/h3/teste1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-585" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medidas_Com_QoS/h1/teste1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-747" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medidas_Com_QoS/h1/teste2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-747" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medidas_Com_QoS/h1/teste3.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medidas_Com_QoS/h2/teste1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-702" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Medidas_Sem_QoS/h3/teste1.txt" />
+    <entry file="file://$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste1.txt" />
+    <entry file="file://$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste2.txt" />
+    <entry file="file://$PROJECT_DIR$/Medidas_Sem_QoS/h1/teste3.txt" />
+    <entry file="file://$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste3.txt" />
+    <entry file="file://$PROJECT_DIR$/Medidas_Sem_QoS/h2/teste1.txt" />
+    <entry file="file://$PROJECT_DIR$/Medidas_Com_QoS/h3/teste1.txt" />
+    <entry file="file://$PROJECT_DIR$/Medidas_Com_QoS/h1/teste1.txt" />
+    <entry file="file://$PROJECT_DIR$/Medidas_Com_QoS/h1/teste2.txt" />
+    <entry file="file://$PROJECT_DIR$/Medidas_Com_QoS/h1/teste3.txt" />
+    <entry file="file://$PROJECT_DIR$/Medidas_Com_QoS/h2/teste1.txt" />
     <entry file="file://$PROJECT_DIR$/AppQoS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
@@ -653,38 +308,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_22.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-585" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_20.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_32.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-612" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_33.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-642" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_2.txt" />
+    <entry file="file://$PROJECT_DIR$/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_1.txt" />
+    <entry file="file://$PROJECT_DIR$/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_22.txt" />
+    <entry file="file://$PROJECT_DIR$/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_20.txt" />
+    <entry file="file://$PROJECT_DIR$/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_32.txt" />
+    <entry file="file://$PROJECT_DIR$/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_33.txt" />
+    <entry file="file://$PROJECT_DIR$/Medida_RTT_Ping/Sem_QoS/rtt_h1_srv1_3.txt" />
+    <entry file="file://$PROJECT_DIR$/Medida_RTT_Ping/Com_QoS/rtt_h1_srv1_1.txt" />
     <entry file="file://$PROJECT_DIR$/AppQoS_SemQoS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
@@ -758,40 +389,54 @@
     <entry file="file://$PROJECT_DIR$/Experimentos/Dados/Medidas_Sem_QoS/h1/teste30.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Experimentos/Funcoes/plota_graficos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experimentos/Funcoes/estatistica_ping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="203" column="48" selection-start-line="203" selection-start-column="48" selection-end-line="203" selection-end-column="48" />
+          <folding>
+            <element signature="e#88#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Experimentos/Funcoes/extrair_dados.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state relative-caret-position="-67">
+          <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="24" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Experimentos/Funcoes/plota_graficos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-67">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="e#0#6#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Experimentos/Funcoes/grafico.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" column="32" lean-forward="true" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+        <state relative-caret-position="1029">
+          <caret line="72" column="51" selection-start-line="72" selection-start-column="51" selection-end-line="72" selection-end-column="51" />
           <folding>
             <element signature="e#43#74#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Experimentos/Funcoes/estatistica.py">
+    <entry file="file://$PROJECT_DIR$/TesteComandos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="332" column="25" selection-start-line="332" selection-start-column="25" selection-end-line="332" selection-end-column="25" />
+        <state relative-caret-position="60">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experimentos/Funcoes/estatistica_iperf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="206" column="15" selection-start-line="206" selection-start-column="15" selection-end-line="206" selection-end-column="15" />
           <folding>
             <element signature="e#88#98#0" expanded="true" />
           </folding>
